@@ -132,7 +132,6 @@ Next we will look at the IP again using the VM browser now that we have connecte
 </p>
 <br />
 
-EXAMPLE 4D
 <p>
 <img src="africaAddress.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
