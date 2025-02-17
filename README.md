@@ -123,7 +123,7 @@ On the left hand side of the VPN you can select a country where you want your VP
 <br />
 
 <p>
-<img src="USAfreeVPNchange" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="USAfreeVPNchange.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
